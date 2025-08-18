@@ -48,3 +48,7 @@ Preferred communication style: Simple, everyday language.
 - No build tools or bundlers needed
 - No server-side dependencies or databases
 - Self-contained application that runs entirely in the browser
+
+## 🚀 Live Demo
+
+[Click here to view the Expense Tracker](https://cheery-puffpuff-6876d7.netlify.app/)
